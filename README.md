@@ -1,7 +1,3 @@
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <br clear="both">
 
 <img src="header.png"  />
