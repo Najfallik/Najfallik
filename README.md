@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="left" height="350" src="header.png"  />
+<img src="header.png"  />
 
 ###
 
