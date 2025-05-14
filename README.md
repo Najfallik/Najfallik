@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a cybersecurity student, freelance graphic designer, linux enthusiast see ![dots](https://github.com/Najfallik/dots) and development fan. <br><br>I love skiing and listening to music and I enjoy creating unfixable bugs. <br><br>Want to collab or need something done? <br>Reach out on any of my socials:</p>
+<p align="left">I'm a cybersecurity student, freelance graphic designer, linux enthusiast see [dots](https://github.com/Najfallik/dots) and development fan. <br><br>I love skiing and listening to music and I enjoy creating unfixable bugs. <br><br>Want to collab or need something done? <br>Reach out on any of my socials:</p>
 
 ###
 
