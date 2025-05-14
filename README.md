@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="left" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VzazZ0MTI2aGV5aTY0d2FoajhoZm5mNjhrc2c1NTA5dWdpdDJjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif"  />
+<img align="left" height="350" src="header.png"  />
 
 ###
 
