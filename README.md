@@ -1,14 +1,18 @@
-<br clear="both">
+<!-- README.md -->
+<h1 align="center">Welcome to My GitHub Profile!</h1>
+<img src="header.png"/>
+<p align="center">
+  <strong>🏞️ Freelance Graphic · 🔐 Cybersecurity Student · 🧑‍💻 Rookie Developer</strong><br>
+  <em>Scripter. Creativity-driven. Always learning.</em>
+</p>
 
-<img src="header.png"  />
+---
 
-###
+### 👩‍💻  About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm a cybersecurity student, freelance graphic designer, linux enthusiast (see my dots in repositories) and development fan. <br><br>I love skiing and listening to music and I enjoy creating unfixable bugs. <br><br>Want to collab or need something done? <br>Reach out on any of my socials:</p>
+I'm a cybersecurity student, freelance graphic designer, linux enthusiast (see my [Dots](https://github.com/Najfallik/dots)) and development fan.<br>
+I love writing scripts, skiing and listening to music and I enjoy creating unfixable bugs and investing.. <br><br>Want to collab or need something done? <br>Reach out on any of my socials:
 
 ###
 
@@ -24,11 +28,9 @@
   </a>
 </div>
 
-###
 
-<h3 align="center">🛠 Languages and tools</h3>
+### 🛠 Tech Stack
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -56,7 +58,7 @@
 
 ###
 
-<h3 align="left">🔥 Stats :</h3>
+### 🔥 Stats :
 
 ###
 
