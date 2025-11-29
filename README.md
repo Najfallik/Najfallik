@@ -2,8 +2,8 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 <img src="header.png"/>
 <p align="center">
-  <strong>🏞️ Freelance Graphic · 🔐 Cybersecurity Student · 🧑‍💻 Rookie Developer</strong><br>
-  <em>Scripter. Creativity-driven. Always learning.</em>
+  <strong>🏞️ Freelance Graphic · 🔐 Cybersecurity Student · 🧑‍💻 Occasional Developer</strong><br>
+  <em>Scripter. Caffeine-driven. Always learning.</em>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 
 I'm a cybersecurity student, freelance graphic designer, linux enthusiast (see my [Dots](https://github.com/Najfallik/dots)) and development fan.<br>
-I love writing scripts, skiing and listening to music and I enjoy creating unfixable bugs and investing.. <br><br>Want to collab or need something done? <br>Reach out on any of my socials:
+I love writing scripts, skiing and listening to music. Just as much, I enjoy creating unfixable bugs. <br><br>Want to collab or need something done? <br>Reach out on any of my socials:
 
 ###
 
@@ -53,7 +53,7 @@ I love writing scripts, skiing and listening to music and I enjoy creating unfix
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="go logo"  />
 </div>
 
 ###
